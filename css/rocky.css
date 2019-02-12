@@ -1,0 +1,36 @@
+html, body{
+	font-family: Arial, sans-serif;
+	margin:0;
+}
+
+header{background-color: #ffffff;
+		padding: 40px 40px 40px 40px;
+		text-align: center;}
+h1{font-size:90px
+			color: white;}
+header img{
+			border-radius: 150px;
+			border:1px solid #000000;}
+		
+
+.content{
+	max-width: 1000px;
+	margin: 0 auto;
+}
+
+img.big-image{
+	max-width: 100%;
+	    width: 500
+}
+
+p.caption{
+	font-size: 16px;
+	color: grey;
+	font-style: italic;
+}
+
+footer{
+	margin-top: 20px;
+	text-align: center;
+	background-color: #E6E6E6;
+}
